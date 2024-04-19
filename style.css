@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(167, 163, 163);
+
+}
+
+.ultimo{
+    background-color: rgb(248, 75, 75);
+    padding: 10px;
+}
+
+li:hover{
+    background-color: rgb(172, 172, 172);
+}
+
+.background-white{
+    background-color: white;
+}
